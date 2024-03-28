@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tailwind-dark-mode/static/css/main.d6eb1bb2.css",
+    "main.js": "/tailwind-dark-mode/static/js/main.e4e1d0dd.js",
+    "static/js/453.f70e8d0e.chunk.js": "/tailwind-dark-mode/static/js/453.f70e8d0e.chunk.js",
+    "index.html": "/tailwind-dark-mode/index.html",
+    "main.d6eb1bb2.css.map": "/tailwind-dark-mode/static/css/main.d6eb1bb2.css.map",
+    "main.e4e1d0dd.js.map": "/tailwind-dark-mode/static/js/main.e4e1d0dd.js.map",
+    "453.f70e8d0e.chunk.js.map": "/tailwind-dark-mode/static/js/453.f70e8d0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6eb1bb2.css",
+    "static/js/main.e4e1d0dd.js"
+  ]
+}
